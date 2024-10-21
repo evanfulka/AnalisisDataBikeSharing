@@ -1,4 +1,3 @@
-absl-py @ file:///C:/b/abs_d3cv5rzljl/croot/absl-py_1686852506854/work
 aiofiles @ file:///C:/b/abs_9ex6mi6b56/croot/aiofiles_1683773603390/work
 aiohttp @ file:///C:/b/abs_b78zt6vo64/croot/aiohttp_1694181126607/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
